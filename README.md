@@ -45,7 +45,7 @@ I'm an Android developer passionate about creating innovative and efficient mobi
 
 ### 📈 GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuKumar9117&show_icons=true&theme=radical)
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuKumar9117&show_icons=true&theme=radica)
 
 ---
 
