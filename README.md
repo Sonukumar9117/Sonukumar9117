@@ -1,4 +1,50 @@
-<h1>Hi there, I'm Sonu Kumar! 👋</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonu Kumar's GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            width: 100%;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .skills, .tools, .projects, .stats, .contact {
+            margin-bottom: 20px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .stats img {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi there, I'm Sonu Kumar! 👋</h1>
         <h2>Android Developer</h2>
 
         <section class="about">
@@ -57,3 +103,6 @@
                 <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/sonukumar">Sonu Kumar</a></li>
             </ul>
         </section>
+    </div>
+</body>
+</html>
