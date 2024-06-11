@@ -52,7 +52,7 @@ I'm an Android developer passionate about creating innovative and efficient mobi
 ### 📫 How to Reach Me
 
 - **Email**: [krsonu1791@gmail.com](mailto:sonu.kumar@example.com)
-- **LinkedIn**: [Sonu Kumar](https://linkedin.com/in sonu-kumar-81284b230)
+- **LinkedIn**: [Sonu Kumar](https://linkedin.com/insonu-kumar-81284b230)
 
 ---
 
