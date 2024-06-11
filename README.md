@@ -45,14 +45,14 @@ I'm an Android developer passionate about creating innovative and efficient mobi
 
 ### 📈 GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonukumar&show_icons=true&theme=radical)
+![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuKumar9117&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 How to Reach Me
 
-- **Email**: [sonu.kumar@example.com](mailto:sonu.kumar@example.com)
-- **LinkedIn**: [Sonu Kumar](https://linkedin.com/in/sonukumar)
+- **Email**: [krsonu1791@gmail.com](mailto:sonu.kumar@example.com)
+- **LinkedIn**: [Sonu Kumar](https://linkedin.com/in sonu-kumar-81284b230)
 
 ---
 
