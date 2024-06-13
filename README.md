@@ -1,6 +1,6 @@
-# Hi there, I'm Sonu Kumar! 👋
+<h2 align="center">Hi there, I'm Sonu Kumar! 👋</h2> 
 
-## 🌟 Android Developer
+<h4 align="center">🌟 Android Developer<h4\>
 
 ---
 
