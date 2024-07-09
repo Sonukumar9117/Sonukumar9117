@@ -1,12 +1,12 @@
 <h2 align="center">Hi there, I'm Sonu Kumar! 👋</h2> 
 
-<h4 align="center">🌟 Android Developer<h4\>
+<h4 align="center">🌟 Android Developer and Java Developer<h4\>
 
 ---
 
 ### About Me
 
-I'm an Android developer passionate about creating innovative and efficient mobile applications. With a strong background in **Java**, **Kotlin**, **MySQL**, **Firebase**, and **Python**, I love turning ideas into reality through code.
+I'm an Android developer and Java Developer passionate about creating innovative and efficient mobile applications. With a strong background in **Java**, **SpringBoot**, **Kotlin**, **MySQL**, **Firebase**, and **Python**, I love turning ideas into reality through code.
 
 ---
 
