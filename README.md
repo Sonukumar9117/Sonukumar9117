@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Sonu Kumar! 👋</h2> 
 
-<h4 align="center">🌟 Android and Java Developer<h4\>
+<h4 align="center">🌟 Android Developer<h4\>
 
 ---
 
@@ -26,29 +26,17 @@ I'm an Android and Java Developer passionate about creating innovative and effic
 - **Others**: REST APIs, MVVM, MVC, Agile Methodologies
 
 ---
-
-### 🌟 Projects
-
-#### [MyAwesomeApp](https://github.com/sonukumar/myawesomeapp)
-- **Description**: A brief description of what the app does.
-- **Technologies Used**: Java, Firebase, Retrofit
-
-#### [WeatherApp](https://github.com/sonukumar/weatherapp)
-- **Description**: An app that provides weather updates.
-- **Technologies Used**: Kotlin, Room, Glide
-
-#### [ToDoApp](https://github.com/sonukumar/todoapp)
-- **Description**: A simple and efficient ToDo application.
-- **Technologies Used**: Java, SQLite, Firebase
-
----
-
 ### 📈 GitHub Stats
 
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SonuKumar9117&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats-nine-beta-16.vercel.app/api/top-langs/?username=Sonukumar9117&layout=compact&theme=radical" alt="Sonukumar1791" /></p>
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-nine-beta-16.vercel.app/api?username=Sonukumar9117&show_icons=true&theme=radical" alt="Sonukumar9117" /></p> -->
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 📫 How to Reach Me
 
