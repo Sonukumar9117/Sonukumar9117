@@ -37,8 +37,6 @@ I'm an Android and Java Developer passionate about creating innovative and effic
 <br>
 <br>
 <br>
-<br>
-<br>
 ### 📫 How to Reach Me
 
 - **Email**: [Sonu Kumar](mailto:krsonu1791.com)
