@@ -80,7 +80,7 @@ I'm a passionate **Android Developer** and **Backend enthusiast** with hands-on 
 
 - 📧 **Email**: [krsonu1791@gmail.com](mailto:krsonu1791@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/sonu-kumar-81284b230](https://linkedin.com/in/sonu-kumar-81284b230)]
-- 🧑‍💻 **LeetCode**: [leetcode.com/Sonukumar9117](https://leetcode.com/Sonukumar9117)
+- 🧑‍💻 **LeetCode**: [leetcode.com/Sonukumar9117](https://leetcode.com/u/Sonukumar9117)
 
 ---
 
