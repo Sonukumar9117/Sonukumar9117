@@ -1,20 +1,20 @@
 <h2 align="center">Hi there, I'm Sonu Kumar! 👋</h2>
 
-<h4 align="center">🌟 Android Developer | Java & Kotlin Enthusiast | Firebase Fanatic</h4>
+<h4 align="center">🌟 Mobile App Developer | TypeScript, Java & Kotlin Enthusiast | Firebase Fanatic</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B140&center=true&vCenter=true&width=435&lines=Android+Developer;Spring+Boot+Backend+Developer;Kotlin+%7C+Java+%7C+Firebase;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+apps+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B140&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;TypeScript+%7C+Kotlin+%7C+Java+%7C+Firebase;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+apps+together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** and **Backend enthusiast** with hands-on experience building efficient, scalable, and intuitive mobile applications using:
+I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-on experience building efficient, scalable, and intuitive mobile applications using:
 
-- **Java, Kotlin, Spring Boot**
+- **TypeScript, Java, Kotlin**
 - **Firebase**, **MySQL**, and REST APIs
-- Jetpack components and modern Android architecture (MVVM, Clean Architecture)
+- React Native, Jetpack components and modern Android architecture (MVVM, Clean Architecture)
 
 ---
 
@@ -22,9 +22,9 @@ I'm a passionate **Android Developer** and **Backend enthusiast** with hands-on 
 
 ### 👨‍💻 Programming Languages
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📱 Mobile & Backend Development
 
