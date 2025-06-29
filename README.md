@@ -53,10 +53,16 @@ I'm a passionate **Android Developer** and **Backend enthusiast** with hands-on 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonukumar9117&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar9117&layout=compact&theme=radical" height="180" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Sonukumar9117&show_icons=true&theme=radical" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonukumar9117&layout=compact&theme=radical" height="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -73,7 +79,7 @@ I'm a passionate **Android Developer** and **Backend enthusiast** with hands-on 
 ## 📫 Connect with Me
 
 - 📧 **Email**: [krsonu1791@gmail.com](mailto:krsonu1791@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/sonu-kumar-81284b230](https://linkedin.com/in/sonu-kumar-81284b230)
+- 💼 **LinkedIn**: [linkedin.com/in/sonu-kumar-81284b230](https://linkedin.com/in/sonu-kumar-81284b230)]
 - 🧑‍💻 **LeetCode**: [leetcode.com/Sonukumar9117](https://leetcode.com/Sonukumar9117)
 
 ---
