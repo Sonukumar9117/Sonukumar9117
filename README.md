@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Sonu Kumar! 👋</h2>
 
-<h4 align="center">🌟 Mobile App Developer | TypeScript, Java & Kotlin Enthusiast | Firebase Fanatic</h4>
+<h4 align="center">🌟 Mobile App Developer | Spring Boot Developer | TypeScript, Java & MySql | Firebase Fanatic</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00B140&center=true&vCenter=true&width=500&lines=Mobile+App+Developer;TypeScript+%7C+Kotlin+%7C+Java+%7C+Firebase;Open+Source+Contributor+%F0%9F%A4%97;Let's+build+great+apps+together!" alt="Typing SVG" />
@@ -10,11 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-on experience building efficient, scalable, and intuitive mobile applications using:
+I'm a passionate **Mobile App Developer** and **Spring Boot** with hands-on experience building efficient, scalable, and intuitive mobile applications using:
 
-- **TypeScript, Java, Kotlin**
+- **TypeScript, Java**
 - **Firebase**, **MySQL**, and REST APIs
-- React Native, Jetpack components and modern Android architecture (MVVM, Clean Architecture)
+- React Native, Spring Boot  and Scalable System Design
 
 ---
 
@@ -24,11 +24,10 @@ I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 📱 Mobile & Backend Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Mobile App Developer](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 💾 Databases
@@ -36,12 +35,6 @@ I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
-### 🛠️ Tools, Libraries & Frameworks
-
-![Retrofit](https://img.shields.io/badge/Retrofit-00796B?style=for-the-badge&logo=retrofit&logoColor=white)
-![Glide](https://img.shields.io/badge/Glide-00ACC1?style=for-the-badge&logo=glide&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3E2723?style=for-the-badge&logo=room&logoColor=white)
-![Dagger](https://img.shields.io/badge/Dagger-00796B?style=for-the-badge&logo=dagger&logoColor=white)
 
 ### 💻 IDEs & Version Control
 
@@ -69,10 +62,10 @@ I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-
 ## 🏆 Achievements
 
 - 🔥 Solved 300+ LeetCode DSA Problems
-- 📱 Developed multiple Android apps using Kotlin, Jetpack Compose & Firebase
+- 📱 Developed multiple Android apps using React Native, Spring Boot & Firebase
 - 🧠 Built a content-based Movie Recommendation System
-- ☕ Created a Café Management System & Food Delivery App for College Students
-- 💼 Currently working as an **SDE Intern** at **Virtualize Private Limited**
+- ☕ Created a Building Management System & Food Delivery App for College Students
+- 💼 Currently working as an **SDE** at **Virtualize Private Limited**
 
 ---
 
@@ -88,7 +81,7 @@ I'm a passionate **Mobile App Developer** and **Backend enthusiast** with hands-
 ## ⚡ Fun Facts
 
 - ♟️ I enjoy playing chess during my free time
-- 🎯 I'm building a YouTube channel to teach DSA and Android development
+- 🎯 I'm building a YouTube channel to teach DSA and Mobile App development
 - 🤝 I’m always up for collaboration on cool mobile app projects!
 
 ---
